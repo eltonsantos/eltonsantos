@@ -3,6 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eltonsantos)](https://github.com/eltonsantos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonmelosantos/)](https://www.linkedin.com/in/eltonmelosantos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elton.melo.santos@gmail.com)](mailto:elton.melo.santos@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/EltonSantos_oficial)](https://www.youtube.com/c/EltonSantos_oficial)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/eltin182)](https://twitter.com/eltin182)
 
 ## Hi there 👋
