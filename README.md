@@ -6,11 +6,11 @@ My name is Elton Santos from Brazil (🇧🇷). I work with development since 20
 
 In my free time I like to play video games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and participating in open source projects or creating something to post on my github (:octocat:).
 
-<div>
-![Elton's github stats](https://github-readme-stats.vercel.app/api?username=eltonsantos&show_icons=true&theme=algolia)
+
+[![Elton's github stats](https://github-readme-stats.vercel.app/api?username=eltonsantos&show_icons=true&theme=algolia)
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonsantos&theme=algolia&hide=html)](https://github.com/eltonsantos/github-readme-stats)
-</div>
+
 
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eltonsantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
