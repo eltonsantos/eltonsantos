@@ -13,7 +13,7 @@ In my free time I like to play video games (🎮), to watch movies (🎞️) and
 
 
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eltonsantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eltonsantos&show_icons=true&theme=algolia&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonsantos&layout=compact&langs_count=16&theme=algolia"/>
 <div>
 
