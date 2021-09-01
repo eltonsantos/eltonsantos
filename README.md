@@ -2,7 +2,7 @@
 
 ### Hi there, welcome to my profile! 👋
 
-My name is Elton Santos from Brazil (🇧🇷). I work with development since 2011 and I'm currently a Software Developer at [CAGECE - Companhia de Água e Esgoto do Ceará](https://www.cagece.com.br/). In addition to development, I am also an Expert in Computer Forensics at [APECOF - Associação Nacional de Peritos em Computação Forense](https://www.apecof.org.br/), acting as an Ad-Hoc Expert in the area of software plagiarism, expertise in Windows and Linux operating systems and expertise in images.
+My name is Elton Santos from Brazil (🇧🇷). I work with development since 2011 and I'm currently a Systems Analyst at [CGE - Controladoria Geral do Estado do Ceará](https://www.cge.ce.gov.br/). In addition to development, I am also an Expert in Computer Forensics at [APECOF - Associação Nacional de Peritos em Computação Forense](https://www.apecof.org.br/), acting as an Ad-Hoc Expert in the area of software plagiarism, expertise in Windows and Linux operating systems and expertise in images.
 
 In my free time I like to play video games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and participating in open source projects or creating something to post on my github (:octocat:).
 
