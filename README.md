@@ -8,7 +8,7 @@ In my free time I like to play video games (🎮), to watch movies (🎞️) and
 
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=eltonsantos&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonsantos&layout=compact&langs_count=16&theme=algolia"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonsantos&layout=compact&langs_count=6&theme=algolia"/>
 <div>
 
 <br />
