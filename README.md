@@ -14,6 +14,7 @@ In my free time I like to play video games (🎮), to watch movies (🎞️) and
 <br />
   
 Would you like to meet me? It's too easy!
+  
 
 [![Blog Badge](https://img.shields.io/badge/Blog-eltonsantos-black)](https://eltonsantos.github.io)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eltonsantos)](https://github.com/eltonsantos)
