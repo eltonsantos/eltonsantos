@@ -15,7 +15,7 @@ In my free time I like to play video games (🎮), to watch movies (🎞️) and
   
 Would you like to meet me? It's too easy!
 
-[![Blog](https://img.shields.io/website?label=eltonmelosantos.com.br&style=for-the-badge&url=https://eltonmelosantos.com.br/)](https://eltonmelosantos.com.br)
+[![Blog](https://img.shields.io/website?down_color=red&down_message=DOWN&label=ELTONMELOSANTOS.com.br&style=flat-square&up_color=green&up_message=UP&url=https%3A%2F%2Feltonmelosantos.com.br)](https://eltonmelosantos.com.br)
 [![Blog Badge](https://img.shields.io/badge/Blog-eltonsantos-black)](https://eltonsantos.github.io)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eltonsantos)](https://github.com/eltonsantos)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/EltonSantos_oficial)](https://www.youtube.com/c/EltonSantos_oficial)
