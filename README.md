@@ -26,11 +26,13 @@ Would you like to meet me? It's too easy!
 
 More stats? Sure!
 
+<div>
+  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltonsantos&theme=algolia" />
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltonsantos&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltonsantos&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eltonsantos&theme=nord_bright)
-![](https://github-readme-streak-stats.herokuapp.com?user=eltonsantos&theme=white&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltonsantos&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eltonsantos&theme=algolia)
+![](https://github-readme-streak-stats.herokuapp.com?user=eltonsantos&theme=algolia&hide_border=true&border_radius=0&card_width=682)
 
 <!--
 **eltonsantos/eltonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
