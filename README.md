@@ -22,6 +22,15 @@ Would you like to meet me? It's too easy!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elton.melo.santos@gmail.com)](mailto:elton.melo.santos@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonmelosantos/)](https://www.linkedin.com/in/eltonmelosantos/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1A91DA?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/eltin182)](https://twitter.com/eltin182)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonsantos&color=lightgrey&style=flat" alt="Profile views" /> </p>
+
+More stats? Sure!
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltonsantos&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltonsantos&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eltonsantos&theme=nord_bright)
+![](https://github-readme-streak-stats.herokuapp.com?user=eltonsantos&theme=white&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)
 
 <!--
 **eltonsantos/eltonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
