@@ -16,13 +16,13 @@ In my free time I like to play video games (🎮), to watch movies (🎞️) and
 Would you like to meet me? It's too easy!
 
 [![Blog](https://img.shields.io/website?down_color=red&down_message=DOWN&label=ELTONMELOSANTOS.com.br&style=flat-square&up_color=green&up_message=UP&url=https%3A%2F%2Feltonmelosantos.com.br)](https://eltonmelosantos.com.br)
-[![Blog Badge](https://img.shields.io/badge/Blog-eltonsantos-black)](https://eltonsantos.github.io)
+[![Blog Badge](https://img.shields.io/badge/Blog-eltonsantos-black?style=flat-square)](https://eltonsantos.github.io)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eltonsantos)](https://github.com/eltonsantos)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/EltonSantos_oficial)](https://www.youtube.com/c/EltonSantos_oficial)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elton.melo.santos@gmail.com)](mailto:elton.melo.santos@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonmelosantos/)](https://www.linkedin.com/in/eltonmelosantos/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1A91DA?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/eltin182)](https://twitter.com/eltin182)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonsantos&color=lightgrey&style=flat" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonsantos&color=green&style=flat-square" alt="Profile views" /> </p>
 
 More stats? Sure!
 
