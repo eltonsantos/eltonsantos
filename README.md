@@ -6,13 +6,21 @@ My name is Elton Santos from Brazil (🇧🇷). I work with development since 20
 
 In my free time I like to play video games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and participating open source projects or creating something to post in my github (:octocat:).
 
-<div>
+<!-- <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltonsantos&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonsantos&layout=compact&langs_count=6&theme=algolia"/>
-<div>
+<div> -->
 
 <br />
-  
+
+<div>
+  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltonsantos&theme=algolia" />
+</div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltonsantos&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eltonsantos&theme=algolia)
+![](https://github-readme-streak-stats.herokuapp.com?user=eltonsantos&theme=algolia&hide_border=true&border_radius=0&card_width=682)
+
 Would you like to meet me? It's too easy!
 
 [![Blog](https://img.shields.io/website?down_color=red&down_message=DOWN&label=ELTONMELOSANTOS.com.br&style=flat-square&up_color=green&up_message=UP&url=https%3A%2F%2Feltonmelosantos.com.br)](https://eltonmelosantos.com.br)
@@ -24,17 +32,8 @@ Would you like to meet me? It's too easy!
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1A91DA?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/eltin182)](https://twitter.com/eltin182)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonsantos&color=green&style=flat-square" alt="Profile views" /> </p>
 
-More stats? Sure!
-
-<div>
-  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltonsantos&theme=algolia" />
-</div>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltonsantos&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eltonsantos&theme=algolia)
-![](https://github-readme-streak-stats.herokuapp.com?user=eltonsantos&theme=algolia&hide_border=true&border_radius=0&card_width=682)
-
 <!--
+More stats? Sure!
 **eltonsantos/eltonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
