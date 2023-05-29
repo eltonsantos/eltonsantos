@@ -11,19 +11,21 @@ In my free time I like to play video games (🎮), to watch movies (🎞️) and
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonsantos&layout=compact&langs_count=6&theme=algolia"/>
 <div> -->
 
-<div>
-  <img height="199em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eltonsantos&theme=algolia"/>
-  <img height="199em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eltonsantos&theme=algolia&utcOffset=8"/>
-<div>
+
 
 <div>
   <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltonsantos&theme=algolia" />
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltonsantos&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eltonsantos&theme=algolia)
-![](https://github-readme-streak-stats.herokuapp.com?user=eltonsantos&theme=algolia&hide_border=true&border_radius=0&card_width=682)
+<div>
+  <img height="199em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eltonsantos&theme=algolia"/>
+  <img height="199em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eltonsantos&theme=algolia&utcOffset=8"/>
+<div>
 
+![](https://github-readme-streak-stats.herokuapp.com?user=eltonsantos&theme=algolia&hide_border=true&border_radius=0&card_width=682)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltonsantos&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eltonsantos&theme=algolia)  
+  
 Would you like to meet me? It's too easy!
 
 [![Blog](https://img.shields.io/website?down_color=red&down_message=DOWN&label=ELTONMELOSANTOS.com.br&style=flat-square&up_color=green&up_message=UP&url=https%3A%2F%2Feltonmelosantos.com.br)](https://eltonmelosantos.com.br)
