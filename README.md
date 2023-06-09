@@ -17,10 +17,10 @@ In my free time I like to play video games (🎮), to watch movies (🎞️) and
   <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltonsantos&theme=algolia" />
 </div>
 
-<div>
+<!-- <div>
   <img height="199em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eltonsantos&theme=algolia"/>
   <img height="199em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eltonsantos&theme=algolia&utcOffset=8"/>
-<div>
+<div> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=eltonsantos&theme=algolia&hide_border=true&border_radius=0&card_width=682)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltonsantos&theme=algolia)
