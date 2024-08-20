@@ -2,7 +2,7 @@
 
 ### Hi there, welcome to my profile! 👋
 
-My name is Elton Santos from Brazil (🇧🇷). I work with development since 2011 and I'm currently a Software Developer Full Stack at [Cresce Vendas](https://www.crescevendas.com/). In addition to development, I am also an Expert in Computer Forensics at [APECOF - Associação Nacional de Peritos em Computação Forense](https://www.apecof.org.br/), acting as an Ad-Hoc Expert in the area of software plagiarism, expertise in Windows and Linux operating systems and expertise in images and videos.
+My name is Elton Santos from Brazil (🇧🇷). I work with development since 2011 and I'm currently a Software Developer Full Stack. In addition to development, I am also an Expert in Computer Forensics at [APECOF - Associação Nacional de Peritos em Computação Forense](https://www.apecof.org.br/), acting as an Ad-Hoc Expert in the area of software plagiarism, expertise in Windows and Linux operating systems and expertise in images and videos.
 
 In my free time I like to play video games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and participating open source projects or creating something to post in my github.
 
